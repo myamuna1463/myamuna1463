@@ -16,6 +16,7 @@ I'm continuously improving my skills in web development. Here are some of the te
 - HTML5
 - CSS3
 - JavaScript
+- Java
 - Git & GitHub
 - Visual Studio Code
 
