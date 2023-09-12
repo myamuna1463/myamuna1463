@@ -18,7 +18,6 @@ I'm continuously improving my skills in web development. Here are some of the te
 - JavaScript
 - Java
 - Git & GitHub
-- Visual Studio Code
 
 ## 📫 Let's Connect
 
