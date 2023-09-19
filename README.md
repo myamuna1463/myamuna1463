@@ -13,14 +13,14 @@ Welcome to my GitHub profile! I'm an enthusiastic Java developer with a passion 
 
 Here are some of the skills I've acquired during my journey as a fresher Java developer:
 
-- **Java Programming:** Proficient in Java and well-versed in object-oriented programming concepts.
-- **Data Structures:** Adept with fundamental data structures like arrays, linked lists, and trees.
-- **Algorithms:** Equipped with a basic understanding of common algorithms such as sorting and searching.
-- **Problem-Solving:** Thrive on tackling complex problems and breaking them down into manageable solutions.
-- **Version Control:** Skilled in Git and experienced in GitHub for version control and collaboration.
-- **Coding Best Practices:** Committed to writing clean, maintainable code and adhering to coding standards.
-- **Teamwork:** Collaborative and enthusiastic about contributing to team success.
-- **Continuous Learning:** Passionate about staying updated with the latest industry trends and technologies.
+- 💻 **Java Programming:** Proficient in Java and well-versed in object-oriented programming concepts. 
+- 🌲 **Data Structures:** Adept with fundamental data structures like arrays, linked lists, and trees. 
+- 🔍 **Algorithms:** Equipped with a basic understanding of common algorithms such as sorting and searching. 
+- 🧩 **Problem-Solving:** Thrive on tackling complex problems and breaking them down into manageable solutions. 
+- 📂 **Version Control:** Skilled in Git and experienced in GitHub for version control and collaboration. 
+- 🧹 **Coding Best Practices:** Committed to writing clean, maintainable code and adhering to coding standards. 
+- 🤝 **Teamwork:** Collaborative and enthusiastic about contributing to team success. 
+- 📖 **Continuous Learning:** Passionate about staying updated with the latest industry trends and technologies. 
 
 ## 📫 Let's Connect
 
